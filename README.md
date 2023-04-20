@@ -16,7 +16,7 @@ Nike.com is een webshop voor kleding, schoenen, accesoires etc. Nike is een gere
 
 De testuitslagen voor Nike.com zijn niet heel positief. De website scoort in weinig gevallen een "goed" en er zijn zeker verbeteringen mogelijk. Voor een uitgebreide testuitslag wil ik je graag naar de wiki verwijzen. 
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+Schrijf een samenvatting van de testbevindingen en verwijs naar je [Wiki](https://github.com/RalphKocken/performance-matters-performance-audit/wiki) voor een uitgebreide rapportage.
 
 
 ## Licentie
